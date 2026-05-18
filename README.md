@@ -47,5 +47,3 @@ cd atividades-mysql
 
 📌 *Entrega das atividades de JOIN - Generation Brasil*
 a o link**
-
-Quer que eu escreva os **scripts SQL completos** das 3 atividades agora?
