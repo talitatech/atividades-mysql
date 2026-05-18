@@ -1,24 +1,28 @@
-# 📚 Atividades - Banco de Dados Relacional (MySQL)
+## 📚 Atividades - Banco de Dados Relacional (MySQL)
 
-Repositório criado para as atividades práticas do módulo de MySQL - **Generation Brasil**.
+Repositório criado para as atividades práticas do módulo de MySQL - Generation Brasil.
+
+---
 
 ## 📁 Estrutura do Repositório
 
 | Branch | Atividade | Descrição | Status |
-|--------|-----------|-----------|--------|
-| `main` | Atividade 1 | Introdução ao MySQL (RH, E-commerce, Escola) | ✅ Concluída |
-| `atividade2-games` | Atividade 2 | Games Online (tb_personagens e tb_classes) | ⏳ Em breve |
-| `atividade3-pizzaria` | Atividade 3 | Pizzaria Legal (tb_pizzas e tb_categorias) | ⏳ Em breve |
-| `atividade4-farmacia` | Atividade 4 | Farmácia Bem Estar (tb_produtos e tb_categorias) | ⏳ Em breve |
-| `atividade5-acougue` | Atividade 5 | Açougue/Hortifruti (tb_produtos e tb_categorias) | ⏳ Em breve |
-| `atividade6-construcao` | Atividade 6 | Construindo Vidas (Material de Construção) | ⏳ Em breve |
-| `atividade7-cursos` | Atividade 7 | Cursos Online (tb_cursos e tb_categorias) | ⏳ Em breve |
+| :--- | :--- | :--- | :--- |
+| **main** | Atividade 1 | Introdução ao MySQL (RH, E-commerce, Escola) | ✅ Concluída |
+| **atividade2-games** | Atividade 2 | Games Online (tb_personagens e tb_classes) | ⏳ Em breve |
+| **atividade3-pizzaria** | Atividade 3 | Pizzaria Legal (tb_pizzas e tb_categorias) | ⏳ Em breve |
+| **atividade4-farmacia** | Atividade 4 | Farmácia Bem Estar (tb_produtos e tb_categorias) | ⏳ Em breve |
+| **atividade5-acougue** | Atividade 5 | Açougue/Hortifruti (tb_produtos e tb_categorias) | ⏳ Em breve |
+| **atividade6-construcao** | Atividade 6 | Construindo Vidas (Material de Construção) | ⏳ Em breve |
+| **atividade7-cursos** | Atividade 7 | Cursos Online (tb_cursos e tb_categorias) | ⏳ Em breve |
+
+---
 
 ## 🚀 Como acessar cada atividade
 
 ```bash
 # Clonar o repositório
-git clone https://github.com/talitatech/atividades-mysql.git
+git clone [https://github.com/talitatech/atividades-mysql.git](https://github.com/talitatech/atividades-mysql.git)
 
 # Entrar na pasta
 cd atividades-mysql
@@ -26,22 +30,39 @@ cd atividades-mysql
 # Mudar para a branch desejada (ex: atividade2-games)
 git checkout atividade2-games
 
-📄 Atividade 1 (Branch main)
+```
+
+---
+
+## 📄 Atividade 1 (Branch main)
+
 Scripts básicos de introdução ao MySQL:
 
-Arquivo	Descrição
-exe01.sql	RH - Tabela de colaboradores (SELECT > 2000, < 2000, UPDATE)
-exe02.sql	E-commerce - Tabela de produtos (SELECT > 500, < 500, UPDATE)
-exe03.sql	Escola - Tabela de estudantes (SELECT > 7.0, < 7.0, UPDATE)
-🛠️ Tecnologias
-MySQL 8.0
+| Arquivo | Descrição |
+| --- | --- |
+| `exe01.sql` | RH - Tabela de colaboradores (SELECT > 2000, < 2000, UPDATE) |
+| `exe02.sql` | E-commerce - Tabela de produtos (SELECT > 500, < 500, UPDATE) |
+| `exe03.sql` | Escola - Tabela de estudantes (SELECT > 7.0, < 7.0, UPDATE) |
 
-MySQL Workbench
+---
 
-Git & GitHub
+## 🛠️ Tecnologias
 
-👩‍💻 Autora
-Talita Oliveira Santos
-GitHub
+* **MySQL 8.0**
+* **MySQL Workbench**
+* **Git & GitHub**
 
-📌 Repositório em constante atualização conforme avanço das atividades.
+---
+
+## 👩‍💻 Autora
+
+* **Talita Oliveira Santos**
+* [GitHub](https://www.google.com/search?q=https://github.com/talitatech)
+
+---
+
+> 📌 Repositório em constante atualização conforme avanço das atividades
+
+```
+
+```
