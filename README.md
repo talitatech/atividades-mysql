@@ -1,20 +1,17 @@
-## 📚 Atividades - Banco de Dados Relacional (MySQL)
+# 📚 Atividades - Banco de Dados Relacional (MySQL)
 
-Repositório criado para as atividades práticas do módulo de MySQL - Generation Brasil.
+Repositório criado para as atividades práticas do módulo de MySQL - **Generation Brasil**.
 
 ---
 
 ## 📁 Estrutura do Repositório
 
 | Branch | Atividade | Descrição | Status |
-| :--- | :--- | :--- | :--- |
-| **main** | Atividade 1 | Introdução ao MySQL (RH, E-commerce, Escola) | ✅ Concluída |
-| **atividade2-games** | Atividade 2 | Games Online (tb_personagens e tb_classes) | ⏳ Em breve |
-| **atividade3-pizzaria** | Atividade 3 | Pizzaria Legal (tb_pizzas e tb_categorias) | ⏳ Em breve |
-| **atividade4-farmacia** | Atividade 4 | Farmácia Bem Estar (tb_produtos e tb_categorias) | ⏳ Em breve |
-| **atividade5-acougue** | Atividade 5 | Açougue/Hortifruti (tb_produtos e tb_categorias) | ⏳ Em breve |
-| **atividade6-construcao** | Atividade 6 | Construindo Vidas (Material de Construção) | ⏳ Em breve |
-| **atividade7-cursos** | Atividade 7 | Cursos Online (tb_cursos e tb_categorias) | ⏳ Em breve |
+|--------|-----------|-----------|--------|
+| `main` | Atividade 1 | Introdução ao MySQL (RH, E-commerce, Escola) | ✅ Concluída |
+| `atividade1-games` | Atividade 2 | Games Online (personagens e classes) | ⏳ Em breve |
+| `atividade2-pizzaria` | Atividade 3 | Pizzaria Legal (pizzas e categorias) | ⏳ Em breve |
+| `atividade6-cursos` | Atividade 4 | Cursos Online (cursos e categorias) | ⏳ Em breve |
 
 ---
 
@@ -22,47 +19,60 @@ Repositório criado para as atividades práticas do módulo de MySQL - Generatio
 
 ```bash
 # Clonar o repositório
-git clone [https://github.com/talitatech/atividades-mysql.git](https://github.com/talitatech/atividades-mysql.git)
+git clone https://github.com/talitatech/atividades-mysql.git
 
 # Entrar na pasta
 cd atividades-mysql
 
-# Mudar para a branch desejada (ex: atividade2-games)
-git checkout atividade2-games
-
+# Mudar para a branch desejada
+git checkout atividade1-games  # ou atividade2-pizzaria, atividade6-cursos
 ```
 
 ---
 
-## 📄 Atividade 1 (Branch main)
+## 📄 Atividades
 
-Scripts básicos de introdução ao MySQL:
+### Branch `main` - Introdução ao MySQL
 
 | Arquivo | Descrição |
-| --- | --- |
-| `exe01.sql` | RH - Tabela de colaboradores (SELECT > 2000, < 2000, UPDATE) |
-| `exe02.sql` | E-commerce - Tabela de produtos (SELECT > 500, < 500, UPDATE) |
-| `exe03.sql` | Escola - Tabela de estudantes (SELECT > 7.0, < 7.0, UPDATE) |
+|---------|-----------|
+| `exe01.sql` | RH - Tabela de colaboradores |
+| `exe02.sql` | E-commerce - Tabela de produtos |
+| `exe03.sql` | Escola - Tabela de estudantes |
+
+### Branch `atividade1-games` - Games Online
+
+| Arquivo | Descrição |
+|---------|-----------|
+| `exe01_games.sql` | Tabelas: tb_classes, tb_personagens. Consultas: INNER JOIN, LIKE, poder > 2000, defesa entre 1000-2000 |
+
+### Branch `atividade2-pizzaria` - Pizzaria Legal
+
+| Arquivo | Descrição |
+|---------|-----------|
+| `exe02_pizzaria.sql` | Tabelas: tb_categorias, tb_pizzas. Consultas: preço > 45, entre 50-100, LIKE 'M', INNER JOIN |
+
+### Branch `atividade6-cursos` - Cursos Online
+
+| Arquivo | Descrição |
+|---------|-----------|
+| `exe03_cursos.sql` | Tabelas: tb_categorias, tb_cursos. Consultas: valor > 500, entre 600-1000, LIKE 'J', INNER JOIN |
 
 ---
 
 ## 🛠️ Tecnologias
 
-* **MySQL 8.0**
-* **MySQL Workbench**
-* **Git & GitHub**
+- MySQL 8.0
+- MySQL Workbench
+- Git & GitHub
 
 ---
 
 ## 👩‍💻 Autora
 
-* **Talita Oliveira Santos**
-* [GitHub](https://www.google.com/search?q=https://github.com/talitatech)
+**Talita Oliveira Santos**  
+[GitHub](https://github.com/talitatech)
 
 ---
 
-> 📌 Repositório em constante atualização conforme avanço das atividades
-
-```
-
-```
+📌 *Repositório em constante atualização conforme avanço das atividades.*
