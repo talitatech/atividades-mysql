@@ -25,3 +25,23 @@ cd atividades-mysql
 
 # Mudar para a branch desejada (ex: atividade2-games)
 git checkout atividade2-games
+
+📄 Atividade 1 (Branch main)
+Scripts básicos de introdução ao MySQL:
+
+Arquivo	Descrição
+exe01.sql	RH - Tabela de colaboradores (SELECT > 2000, < 2000, UPDATE)
+exe02.sql	E-commerce - Tabela de produtos (SELECT > 500, < 500, UPDATE)
+exe03.sql	Escola - Tabela de estudantes (SELECT > 7.0, < 7.0, UPDATE)
+🛠️ Tecnologias
+MySQL 8.0
+
+MySQL Workbench
+
+Git & GitHub
+
+👩‍💻 Autora
+Talita Oliveira Santos
+GitHub
+
+📌 Repositório em constante atualização conforme avanço das atividades.
