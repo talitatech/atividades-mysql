@@ -28,21 +28,21 @@ Scripts com conceitos fundamentais: CREATE DATABASE, CREATE TABLE, INSERT, SELEC
 
 | Arquivo | Descrição | Requisitos atendidos |
 |---------|-----------|----------------------|
-| `exe01_rh.sql` | **RH** - Colaboradores | 5 atributos, 5 registros, SELECT salário > 2000 e < 2000, UPDATE |
-| `exe02_ecommerce.sql` | **E-commerce** - Produtos | 5 atributos, 8 registros, SELECT preço > 500 e < 500, UPDATE |
-| `exe03_escola.sql` | **Escola** - Estudantes | 5 atributos, 8 registros, SELECT nota > 7.0 e < 7.0, UPDATE |
+| `exe01_rh.sql` | RH - Colaboradores | 5 atributos, 5 registros, SELECT salário > 2000 e < 2000, UPDATE |
+| `exe02_ecommerce.sql` | E-commerce - Produtos | 5 atributos, 8 registros, SELECT preço > 500 e < 500, UPDATE |
+| `exe03_escola.sql` | Escola - Estudantes | 5 atributos, 8 registros, SELECT nota > 7.0 e < 7.0, UPDATE |
 
 ---
 
-## 📄 Atividade 2 - JOIN (Relacionamento entre Tabelas) ⏳ EM ANDAMENTO
+## 📄 Atividade 2 - JOIN (Relacionamento entre Tabelas) ✅ CONCLUÍDA
 
 Scripts com relacionamento entre duas tabelas usando **Chave Estrangeira** e consultas com **INNER JOIN**.
 
 | Arquivo | Descrição | Requisitos atendidos |
 |---------|-----------|----------------------|
-| `exe01_games_online.sql` | **Games Online** | 2 tabelas (tb_classes, tb_personagens), FK, 5+8 registros, INNER JOIN, LIKE '%C%', poder > 2000, defesa BETWEEN 1000-2000 |
-| `exe02_pizzaria_legal.sql` | **Pizzaria Legal** | 2 tabelas (tb_categorias, tb_pizzas), FK, 5+8 registros, INNER JOIN, LIKE '%M%', preço > 45, preço BETWEEN 50-100 |
-| `exe03_cursos_online.sql` | **Cursos Online** | 2 tabelas (tb_categorias, tb_cursos), FK, 5+8 registros, INNER JOIN, LIKE '%J%', valor > 500, valor BETWEEN 600-1000 |
+| `exe01_games_online.sql` | Games Online | 2 tabelas (tb_classes, tb_personagens), FK, 5+8 registros, INNER JOIN, LIKE '%C%', poder > 2000, defesa BETWEEN 1000-2000 |
+| `exe02_pizzaria_legal.sql` | Pizzaria Legal | 2 tabelas (tb_categorias, tb_pizzas), FK, 5+8 registros, INNER JOIN, LIKE '%M%', preço > 45, preço BETWEEN 50-100 |
+| `exe03_cursos_online.sql` | Cursos Online | 2 tabelas (tb_categorias, tb_cursos), FK, 5+8 registros, INNER JOIN, LIKE '%J%', valor > 500, valor BETWEEN 600-1000 |
 
 ---
 
@@ -122,3 +122,4 @@ cd atividades-mysql
 ---
 
 📌 *Repositório com todas as entregas do módulo de MySQL - Generation Brasil*
+```
